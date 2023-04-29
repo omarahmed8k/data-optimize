@@ -3,7 +3,7 @@
 ## npm i
 ## npm run dev
 
-### a project for optimize data from a JS File (path: ./helpers/task.js)
+### a project for optimize data from a JS File (path: ./src/helpers/task.js)
 
 ### get all departments and list in tabs
 
